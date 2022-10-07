@@ -74,7 +74,7 @@
             </div>
             <div class="form-group">
                <s:input class="form-control item"   path="phone" id="mobile" placeholder="Mobile No."
-                minlength="10" required="true" maxlength="10"/>
+                minlength="10" maxlength="10"/>
             </div>
             <div class="form-group">    
                <s:input type="password" class="form-control item"    path="loginVO.password" id="password" placeholder="Password" required="true"/>
@@ -84,7 +84,7 @@
                 placeholder="Confirm Password" required="true">
             </div>
             <div class="form-group">
-                <button class="btn btn-primary btn-block create-account" type="submit" style="background-color:rgb(20,133,238)">Create Account</button>
+                <button class="btn btn-primary btn-block create-account" type="submit" style="background-color:rgb(20,133,238)">Sign Up</button>
             </div>
         </s:form>
         <div class="social-media" style="background-color:rgb(20,133,238)">

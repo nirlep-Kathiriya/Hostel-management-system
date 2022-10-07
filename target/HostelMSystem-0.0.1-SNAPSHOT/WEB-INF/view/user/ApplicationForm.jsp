@@ -116,11 +116,11 @@
 			</div>
 			<div class="form-group">
 				<s:input class="form-control item" path="mobileNo" id="mobile"
-					placeholder="Mobile No." minlength="10" required="true" maxlength="10" />
+					placeholder="Mobile Number" minlength="10" required="true" maxlength="10" />
 			</div>
 			<div class="form-group">
 				<s:input class="form-control item" path="emergencyNo" id="e_mobile"
-					placeholder="Emergency Mobile No." minlength="10" required=""
+					placeholder="Emergency Mobile Number" minlength="10" required=""
 					maxlength="10" />
 			</div>
 			<div class="form-group">

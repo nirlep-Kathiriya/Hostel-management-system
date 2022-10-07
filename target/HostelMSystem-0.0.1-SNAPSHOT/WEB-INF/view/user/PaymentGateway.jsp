@@ -144,7 +144,7 @@ span.price {
         <div class="container">
             <form method="post" action="payFees">
                 <div class="col-50">
-                    <h3>Payment</h3>
+                    <h3 align="center">Payment</h3>
                     <div class="icon-container">
                         <i class="fa fa-cc-visa" style="color:navy;"></i>
                         <i class="fa fa-cc-amex" style="color:blue;"></i>
@@ -155,13 +155,13 @@ span.price {
                     
                     <span style="color: red">${paymenterror}</span>
                     <label >Application id</label>
-                    <input type="text" name="appId" >
+                    <input type="text" name="appId" required=true>
                     
                     <label >Email</label>
-                    <input type="email" name="emailId" >
+                    <input type="email" name="emailId" required=true>
                     
                     <label >Full Name</label>
-                    <input type="text" name="fullName" >
+                    <input type="text" name="fullName" required=true>
                     
                    
                     <label>Student Type</label>

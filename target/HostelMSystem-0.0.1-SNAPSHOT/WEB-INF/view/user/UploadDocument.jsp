@@ -200,7 +200,7 @@
 			<div class="form-group"></div>
 			<div class="form-group">
 				<button class="btn btn-primary btn-block create-account"
-					type="submit">Submit</button>
+					type="submit">Upload Documents</button>
 			</div>
 		</form>
 		<div class="social-media"></div>

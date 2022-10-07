@@ -28,7 +28,7 @@ function admissionOFF() {
 <jsp:include page="headerOfUserSide.jsp"></jsp:include>
     <div class="container d-xl-flex align-items-xl-center">
         <div class="text-left" style="margin: 0;margin-top: 37px;padding-top: 37px;padding-bottom: 100px;">
-            <div class="d-xl-flex justify-content-xl-center"><img class="d-xl-flex" src="<%=request.getContextPath()%>/messResources/assets/img/mess.png" style="padding-left: 3vw;"></div>
+            <div class="d-xl-flex justify-content-xl-center"><img class="d-xl-flex" src="<%=request.getContextPath()%>/messResources/assets/img/download.jpg" style="padding-left: 3vw;"></div>
             <div class="text-center" style="padding: 41px;">
                 <h2 style="padding-left: 3vw;font-family: sans-serif;padding-top: 1vh;"><strong><span style="text-decoration: underline;">Hostel Mess</span></strong></h2>
                 <p style="padding-left: 3vw;font-family: sans-serif;font-size: 18px;">The hostel premises comprises of a separate dining facility for hostel residents. The hostel mess has a separate dining hall and a well-equipped kitchen catering to more than 3200 students. Mess serves breakfast, lunch, evening tea and

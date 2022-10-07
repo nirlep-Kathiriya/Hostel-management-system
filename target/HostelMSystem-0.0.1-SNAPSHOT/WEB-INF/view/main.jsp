@@ -111,13 +111,13 @@
 						<b>Addmission Process Start</b>
 					</h2>
 					<p class="text-center">
-						For Addmission ,<br />First you need to create account
+						To fill application form ,<br />First you need to create account
 					</p>
 				</div>
-				<div class="buttons">
+				<!-- <div class="buttons">
 					<a class="btn btn-primary" role="button" href="loadSignUpPage">Sign
 						up here</a>
-				</div>
+				</div> -->
 			</div>
 		</div>
 	</c:if>
